@@ -1,0 +1,2 @@
+# Training and analysing quality of musical instrument prediction model
+## The notebook consists of Classifying the musical instrument based on it's photo. At first ResNet model is used. Then fine-tuned EfficientNet B0 model is used. The fine-tuned model is in ```model.keras``` file. The whole analysis is available in ```.ipnyb``` file
